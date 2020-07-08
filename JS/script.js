@@ -2,7 +2,6 @@
 var keys = [1,2,3,4,5,6,7,8,9];
 var myArray = [10, 13, 25, 23, 41, 51, 16, 71,9];
 var a = myArray.sort(function(a, b){return a-b});
-console.log(a);
 let myBgColor = ['primary','success','secondary','warning','info','danger','dark','light','white'];
 var newObjArr = [];
 Ordinal(myArray);
